@@ -1,0 +1,5 @@
+{
+  "name": "Fitness and Diet Setter & Tracker",
+  "description": "An intelligent web application that uses the Gemini API to generate personalized workout and diet plans based on user's specific goals and physical attributes. Users can input their details and receive a custom fitness strategy in seconds.",
+  "requestFramePermissions": []
+}
